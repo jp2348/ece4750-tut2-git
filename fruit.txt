@@ -3,7 +3,8 @@ mango
 orange
 banana
 peach
-MNOPQRSTUVWXYZ
 lemon
 plum
 kiwi
+date
+
